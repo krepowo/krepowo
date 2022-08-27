@@ -1,4 +1,4 @@
 p mabar
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krepowo&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krepowo&show_icons=true&theme=darcula)
+![eeee](https://wakatime.com/share/@0987f650-eed7-401e-b491-2a1eda5a0bea/b3c90e6b-15eb-4e59-a8eb-db54114ab530.png)
