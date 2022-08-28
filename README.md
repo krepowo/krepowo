@@ -1,4 +1,17 @@
-p mabar
+<h1 align="center">Hi 👋, I'm Krep</h1>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=krepowo&label=Profile%20views&color=0e75b6&style=flat" alt="krepowo" />
 
 
-<img src="https://wakatime.com/share/@0987f650-eed7-401e-b491-2a1eda5a0bea/b3c90e6b-15eb-4e59-a8eb-db54114ab530.png" width="530" height="400">
+- 🔭 I’m not currently working on any project
+
+- 🌱 I’m currently learning **Java**
+
+- 📫 Reach me at Discord **Krep#1234**<br><br>
+<h2 align="left">Stats and Info:</h2>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krepowo&show_icons=true&locale=en&layout=compact" alt="krepowo" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=krepowo&show_icons=true&locale=en" alt="krepowo" />
+
+<br><br>
+<h2 align="left">Achievements:</h2>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krepowo&title=MultiLanguage,Repositories,Commits" alt="LMAOO" /></a> </p>
