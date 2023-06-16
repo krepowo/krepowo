@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krep</h1>
 <p align="left">
 
-<p align="center"><img src="https://count.getloli.com/get/@krepowo" alt="krepowo" align="center" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@krepowo?theme=rule34" alt="krepowo" align="center" /></p>
 
 - 🌱 I’m currently learning **Java**
 
