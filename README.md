@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Krep</h1>
 <p align="left">
 
+<p align="center"><img src="https://count.getloli.com/get/@krepowo" alt="krepowo" align="center" /></p>
+
 - 🌱 I’m currently learning **Java**
 
 - 📫 Reach me at Discord **Krep#2183**<br><br>
@@ -11,5 +13,3 @@
 <h2 align="left">Achievements:</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krepowo&title=MultiLanguage,Repositories,Commits" alt="LMAOO" /></a> </p>
-
-<img src="https://count.getloli.com/get/@krepowo" alt="krepowo" align="center" />
