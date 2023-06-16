@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 Reach me at Discord **Krep#2183**<br><br>
+- 📫 Reach me at Discord **krepowo** (without 4 digit number :>)<br><br>
 <h2 align="left">Stats and Info:</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krepowo&show_icons=true&locale=en&layout=compact" alt="krepowo" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=krepowo&show_icons=true&locale=en" alt="krepowo" />
 
