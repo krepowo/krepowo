@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krep</h1>
 <p align="left">
-<img src="https://count.getloli.com/get/@krepowo" alt="krepowo" />
+<img src="https://count.getloli.com/get/@krepowo" align="center" alt="krepowo" />
 
 - 🌱 I’m currently learning **Java**
 
