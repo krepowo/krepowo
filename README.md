@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krep</h1>
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=krepowo&label=Profile%20views&color=0e75b6&style=flat" alt="krepowo" />
+<img src="https://count.getloli.com/get/@krepowo" alt="krepowo" />
 
 - 🌱 I’m currently learning **Java**
 
