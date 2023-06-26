@@ -5,9 +5,10 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 Reach me at Discord **krepowo** (without 4 digit number :>)<br><br>
+- 📫 Reach me at Discord **krepowo**<br><br>
 <h2 align="left">Stats and Info:</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krepowo&show_icons=true&locale=en&layout=compact" alt="krepowo" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=krepowo&show_icons=true&locale=en" alt="krepowo" />
+ <img src="https://top.gg/api/widget/1001442084613529711.svg" align="center">
 
 <br><br>
 <h2 align="left">Achievements:</h2>
