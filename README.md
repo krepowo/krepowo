@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Krep</h1>
-<h3 align="center">A backend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krepowo&label=Profile%20views&color=0e75b6&style=flat" alt="krepowo" /> </p>
 
