@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [ZKR Store](https://zkrstore.com)<br>🌱 I’m currently learning SvelteKit and Docker<br>💬 Ask me about anything related about Discord Bot development
+🌱 I’m currently learning SvelteKit and Docker<br>💬 Ask me about anything related about Discord Bot development
 
 
 ## 🌐 Socials:
